@@ -1,7 +1,0 @@
-streamlit
-pandas
-geopandas
-openpyxl
-fiona
-pyproj
-shapely
